@@ -63,7 +63,7 @@ const Contact = () => {
             className="bg-white p-10 rounded-3xl border border-gray-100 shadow-xl"
           >
             <form 
-              action="https://formsubmit.co/kenafangideh@gmail.com" 
+              action="https://formsubmit.co/5a8cfb787fde48dad647bb10b2bed54c" 
               method="POST"
               className="space-y-6"
             >
